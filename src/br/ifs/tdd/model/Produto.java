@@ -54,4 +54,8 @@ public class Produto {
             throw new ValidacaoException("Preço inválido (deve ser positivo)");
         }
     }
+
+    public String getIdentificador(){
+        return this.identificador;
+    }
 }

@@ -1,6 +1,5 @@
 package br.ifs.tdd.model;
 import br.ifs.tdd.exception.ValidacaoException;
-import java.util.Date;
 import java.time.LocalDate;
 
 public class Lote {

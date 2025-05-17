@@ -4,10 +4,8 @@ import br.ifs.tdd.exception.ValidacaoException;
 import br.ifs.tdd.model.Lote;
 import br.ifs.tdd.model.Produto;
 import org.junit.Test;
-
 import java.time.LocalDate;
 import java.util.Date;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 public class LoteTest {
